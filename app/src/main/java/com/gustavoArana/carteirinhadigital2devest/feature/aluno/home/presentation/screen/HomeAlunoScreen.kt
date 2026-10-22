@@ -102,7 +102,7 @@ private fun HomeAlunoScreenPreview() {
             usuarioLogado = UsuarioLogado(
                 id = "1",
                 nome = "Aluno Modelo",
-                matricula = "2026000001",
+                matricula = "90000000001756586200",
                 perfil = PerfilAcesso.ALUNO,
                 curso = "Desenvolvimento de Sistemas",
                 turma = "2DEVEST-A",

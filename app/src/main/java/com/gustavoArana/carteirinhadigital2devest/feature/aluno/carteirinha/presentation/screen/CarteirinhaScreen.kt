@@ -30,7 +30,7 @@ fun CarteirinhaScreen(
     ) {
 
         Image(
-            painter = painterResource(id = R.drawable.img),
+            painter = painterResource(id = R.drawable.img_4),
             contentDescription = "Fundo",
             modifier = Modifier
                 .fillMaxSize()
